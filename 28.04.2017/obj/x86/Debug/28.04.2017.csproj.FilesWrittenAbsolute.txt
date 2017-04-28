@@ -1,0 +1,5 @@
+/Users/muradbineliyev/Projects/28.04.2017/28.04.2017/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/muradbineliyev/Projects/28.04.2017/28.04.2017/bin/Debug/28.04.2017.pdb
+/Users/muradbineliyev/Projects/28.04.2017/28.04.2017/bin/Debug/28.04.2017.exe
+/Users/muradbineliyev/Projects/28.04.2017/28.04.2017/obj/x86/Debug/28.04.2017.exe
+/Users/muradbineliyev/Projects/28.04.2017/28.04.2017/obj/x86/Debug/28.04.2017.pdb
